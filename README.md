@@ -1,1 +1,1 @@
-# RAI-Whitepaper-Japanese
+# Translated the RAI whitepaper from English to Japanese.
